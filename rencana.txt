@@ -5,7 +5,7 @@ Mempelajari bahasa pemrograman
     -JavaScript : react
     -PHP
 2. IOT
-    -ARM
+    -Arduino / AVR
     -RaspberryPi
 3. Desktop App
     -C
