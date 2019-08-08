@@ -5,7 +5,7 @@ Mempelajari bahasa pemrograman
     -JavaScript : react
     -PHP
 2. IOT
-    -Device :   ARM
+    -Device :   Arduino / AVR
                 RaspberryPi
     -Code   : C, Asm, C++
 3. Desktop App
