@@ -2,4 +2,4 @@ Resolusi Tahun 2019
 -Web Programming
 -IOT
 -Membuat Website
--Android Apps
+-Desktop Software
