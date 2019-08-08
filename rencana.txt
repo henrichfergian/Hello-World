@@ -1,5 +1,16 @@
 Mempelajari bahasa pemrograman
 1. Web
+    -HTML5
+    -CSS
+    -JavaScript : react
+    -PHP
 2. IOT
+    -ARM
+    -RaspberryPi
 3. Desktop App
+    -C
+    -C++
+    -Python
 4. Android Apps
+    -Java
+    -Kotlin
